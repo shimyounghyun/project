@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemesh>
+ <mapping path="/" decorator="/WEB-INF/decorators/default.jsp"/>
+ <mapping path="/chat" decorator="/WEB-INF/views/chat.jsp" exclude="true"/>
+ <mapping path="/test" decorator="/WEB-INF/views/test.jsp" exclude="true"/>
+ <mapping path="/notice" decorator="/WEB-INF/decorators/board.jsp"/>
+ <mapping path="/notice/*" decorator="/WEB-INF/decorators/board.jsp"/>
+ <mapping path="/team/*" decorator="/WEB-INF/decorators/team.jsp"/>
+ <mapping path="/team" decorator="/WEB-INF/decorators/team.jsp"/>
+ <mapping path="/admin/*" decorator="/WEB-INF/decorators/adminDecorator.jsp"/>
+</sitemesh>

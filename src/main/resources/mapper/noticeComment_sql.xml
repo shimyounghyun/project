@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="noticeComment">
+<!-- 등록하기 -->
+<insert id="insert" parameterType="noticeComment">
+insert into notice_comment(board_id,writer,pw,content,img,regdate) values(#{board_id},#{writer},#{pw},#{content},#{img},now());
+</insert>
+
+<!-- 공지사항 번호에 해당하는 댓글 보여주기 -->
+<select id="list" parameterType="int" resultType="noticeComment">
+select * from notice_comment where board_id=#{idx}
+</select>
+
+<!-- 공지사항 번호에 해당하는 댓글 수 -->
+<select id="count" parameterType="int" resultType="int">
+select count(*) from notice_comment where board_id=#{idx}
+</select>
+
+</mapper>

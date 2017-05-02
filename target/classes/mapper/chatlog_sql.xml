@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="chat">
+	<insert id="insert" parameterType="chat">
+	insert into chatlog(teamnum,userid,content,img,regdate) values(#{teamnum},#{userid},#{content},#{img},now())
+	</insert>
+	<select id="log" parameterType="int" resultType="chat">
+	select * from chatlog where teamnum=#{teamnum}
+	</select>
+</mapper>

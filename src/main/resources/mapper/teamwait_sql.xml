@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="teamwait">
+	<!-- 대기자 총원 -->
+	<select id="getCount" parameterType="int" resultType="int">
+	select count(*) from teamwait where teamidx=#{teamidx};
+	</select>
+	<!-- 대기자 목록 -->
+	<select id="selectList" parameterType="java.util.HashMap" resultType="teamwait">
+	select * from teamwait where teamidx=#{teamidx} order by teamidx;
+	</select>
+	<!-- 대기자 등록 -->
+	<insert id="insert" parameterType="teamwait">
+	insert into teamwait(teamidx,useridx,username,userid) values(#{teamidx},#{useridx},#{username},#{userid});
+	</insert>
+	<!-- 승인/거절 후 데이터 삭제-->
+	<delete id="delete" parameterType="java.util.HashMap">
+	delete from teamwait where useridx=#{useridx} and teamidx=#{teamidx}
+	</delete>
+</mapper>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="teamuser">
+	<!-- 속한 팀원 1페이지 -->
+	<select id="selectList" parameterType="java.util.HashMap" resultType="teamUser">
+	select * from teamuser where teamidx=#{teamidx} order by count limit #{startNo},#{pageSize};
+	</select>
+	<!-- 팀 총원 -->
+	<select id="getCount" parameterType="int" resultType="int">
+	select count(*) from teamuser where teamidx=#{teamidx};
+	</select>
+	<!-- 팀원 등록 -->
+	<insert id="insert" parameterType="teamuser">
+	insert into teamUser(teamidx,useridx,username,userid,lv,count) values(#{teamidx},#{useridx},#{username},#{userid},#{lv},count=count+1);
+	</insert>
+</mapper>

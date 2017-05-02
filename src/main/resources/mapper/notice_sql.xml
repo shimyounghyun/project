@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="test">
+	<!-- 개수 얻기 -->
+	<select id="getCount" resultType="int">
+		<![CDATA[
+		select count(*) from notice_board
+		]]>
+	</select>
+
+
+	<!-- 1개 가져오기 -->
+	<select id="selectByIdx" resultType="notice" parameterType="int">
+	<![CDATA[
+		select * from notice_board where idx=#{idx}
+		]]>
+	</select>
+	
+	<!-- 1페이지 -->
+	<select id="selectList" resultType="notice" parameterType="java.util.HashMap">
+		<![CDATA[
+		select * from notice_board order by idx desc limit #{startNo},#{pageSize}
+		]]>
+	</select>
+	
+	<!-- 글추가 -->
+	<insert id="insertNotice" parameterType="notice">
+	<![CDATA[
+		insert into notice_board(subject,content,regdate) values(#{subject},#{content},now())
+		]]>
+	</insert>
+	
+	
+	<!-- 제목으로 검색 -->
+	<select id="search" parameterType="java.util.HashMap" resultType="notice">
+	select * from notice_board
+	<if test="searchSub != unll">
+	where subject like '%${searchSub}%'
+	</if>
+	order by idx desc limit #{startNo},#{pageSize}
+	</select>
+	<!-- 제목검색게시물 총개수 -->
+	<select id="searchCount" parameterType="java.util.HashMap" resultType="int">
+	select count(*) from notice_board
+	<if test="searchSub != unll">
+	where subject like '%${searchSub}%'
+	</if>
+	</select>
+</mapper>

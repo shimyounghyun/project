@@ -1,0 +1,1877 @@
+[
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Jongno-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_110", 
+                "sgg_nm": "\uc885\ub85c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Jung-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_140", 
+                "sgg_nm": "\uc911\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Yongsan-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_170", 
+                "sgg_nm": "\uc6a9\uc0b0\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seongdong-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_200", 
+                "sgg_nm": "\uc131\ub3d9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gwangjin-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_215", 
+                "sgg_nm": "\uad11\uc9c4\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Dongdaemun-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_230", 
+                "sgg_nm": "\ub3d9\ub300\ubb38\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Jungnang-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_260", 
+                "sgg_nm": "\uc911\ub791\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seongbuk-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_290", 
+                "sgg_nm": "\uc131\ubd81\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gangbuk-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_305", 
+                "sgg_nm": "\uac15\ubd81\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Dobong-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_320", 
+                "sgg_nm": "\ub3c4\ubd09\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Nowon-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_350", 
+                "sgg_nm": "\ub178\uc6d0\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Eunpyeong-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_380", 
+                "sgg_nm": "\uc740\ud3c9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seodaemun-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_410", 
+                "sgg_nm": "\uc11c\ub300\ubb38\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Mapo-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_440", 
+                "sgg_nm": "\ub9c8\ud3ec\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Yangcheon-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_470", 
+                "sgg_nm": "\uc591\ucc9c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gangseo-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_500", 
+                "sgg_nm": "\uac15\uc11c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Guro-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_530", 
+                "sgg_nm": "\uad6c\ub85c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Geumcheon-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_545", 
+                "sgg_nm": "\uae08\ucc9c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Yeongdeungpo-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_560", 
+                "sgg_nm": "\uc601\ub4f1\ud3ec\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Dongjak-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_590", 
+                "sgg_nm": "\ub3d9\uc791\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gwanak-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_620", 
+                "sgg_nm": "\uad00\uc545\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seocho-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_650", 
+                "sgg_nm": "\uc11c\ucd08\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gangnam-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_680", 
+                "sgg_nm": "\uac15\ub0a8\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Songpa-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_710", 
+                "sgg_nm": "\uc1a1\ud30c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gangdong-gu", 
+                "sd_cd": "11", 
+                "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc", 
+                "sgg_cd": "11_740", 
+                "sgg_nm": "\uac15\ub3d9\uad6c"
+            }
+        ], 
+        "en_sd_nm": "Seoul", 
+        "sd_cd": "11", 
+        "sd_nm": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Jung-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_110", 
+                "sgg_nm": "\uc911\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seo-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_140", 
+                "sgg_nm": "\uc11c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Dong-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_170", 
+                "sgg_nm": "\ub3d9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Yeongdo-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_200", 
+                "sgg_nm": "\uc601\ub3c4\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Busanjin-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_230", 
+                "sgg_nm": "\ubd80\uc0b0\uc9c4\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Dongnae-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_260", 
+                "sgg_nm": "\ub3d9\ub798\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Nam-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_290", 
+                "sgg_nm": "\ub0a8\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Buk-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_320", 
+                "sgg_nm": "\ubd81\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Haeundae-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_350", 
+                "sgg_nm": "\ud574\uc6b4\ub300\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Saha-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_380", 
+                "sgg_nm": "\uc0ac\ud558\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Geumjeong-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_410", 
+                "sgg_nm": "\uae08\uc815\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gangseo-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_440", 
+                "sgg_nm": "\uac15\uc11c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Yeonje-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_470", 
+                "sgg_nm": "\uc5f0\uc81c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Suyeong-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_500", 
+                "sgg_nm": "\uc218\uc601\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Sasang-gu", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_530", 
+                "sgg_nm": "\uc0ac\uc0c1\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gijang-gun", 
+                "sd_cd": "26", 
+                "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "26_710", 
+                "sgg_nm": "\uae30\uc7a5\uad70"
+            }
+        ], 
+        "en_sd_nm": "Busan", 
+        "sd_cd": "26", 
+        "sd_nm": "\ubd80\uc0b0\uad11\uc5ed\uc2dc"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Jung-gu", 
+                "sd_cd": "27", 
+                "sd_nm": "\ub300\uad6c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "27_110", 
+                "sgg_nm": "\uc911\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Dong-gu", 
+                "sd_cd": "27", 
+                "sd_nm": "\ub300\uad6c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "27_140", 
+                "sgg_nm": "\ub3d9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seo-gu", 
+                "sd_cd": "27", 
+                "sd_nm": "\ub300\uad6c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "27_170", 
+                "sgg_nm": "\uc11c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Nam-gu", 
+                "sd_cd": "27", 
+                "sd_nm": "\ub300\uad6c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "27_200", 
+                "sgg_nm": "\ub0a8\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Buk-gu", 
+                "sd_cd": "27", 
+                "sd_nm": "\ub300\uad6c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "27_230", 
+                "sgg_nm": "\ubd81\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Suseong-gu", 
+                "sd_cd": "27", 
+                "sd_nm": "\ub300\uad6c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "27_260", 
+                "sgg_nm": "\uc218\uc131\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Dalseo-gu", 
+                "sd_cd": "27", 
+                "sd_nm": "\ub300\uad6c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "27_290", 
+                "sgg_nm": "\ub2ec\uc11c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Dalseong-gun", 
+                "sd_cd": "27", 
+                "sd_nm": "\ub300\uad6c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "27_710", 
+                "sgg_nm": "\ub2ec\uc131\uad70"
+            }
+        ], 
+        "en_sd_nm": "Daegu", 
+        "sd_cd": "27", 
+        "sd_nm": "\ub300\uad6c\uad11\uc5ed\uc2dc"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Jung-gu", 
+                "sd_cd": "28", 
+                "sd_nm": "\uc778\ucc9c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "28_110", 
+                "sgg_nm": "\uc911\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Dong-gu", 
+                "sd_cd": "28", 
+                "sd_nm": "\uc778\ucc9c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "28_140", 
+                "sgg_nm": "\ub3d9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Nam-gu", 
+                "sd_cd": "28", 
+                "sd_nm": "\uc778\ucc9c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "28_170", 
+                "sgg_nm": "\ub0a8\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Yeonsu-gu", 
+                "sd_cd": "28", 
+                "sd_nm": "\uc778\ucc9c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "28_185", 
+                "sgg_nm": "\uc5f0\uc218\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Namdong-gu", 
+                "sd_cd": "28", 
+                "sd_nm": "\uc778\ucc9c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "28_200", 
+                "sgg_nm": "\ub0a8\ub3d9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Bupyeong-gu", 
+                "sd_cd": "28", 
+                "sd_nm": "\uc778\ucc9c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "28_237", 
+                "sgg_nm": "\ubd80\ud3c9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gyeyang-gu", 
+                "sd_cd": "28", 
+                "sd_nm": "\uc778\ucc9c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "28_245", 
+                "sgg_nm": "\uacc4\uc591\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seo-gu", 
+                "sd_cd": "28", 
+                "sd_nm": "\uc778\ucc9c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "28_260", 
+                "sgg_nm": "\uc11c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Ganghwa-gun", 
+                "sd_cd": "28", 
+                "sd_nm": "\uc778\ucc9c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "28_710", 
+                "sgg_nm": "\uac15\ud654\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Ongjin-gun", 
+                "sd_cd": "28", 
+                "sd_nm": "\uc778\ucc9c\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "28_720", 
+                "sgg_nm": "\uc639\uc9c4\uad70"
+            }
+        ], 
+        "en_sd_nm": "Incheon", 
+        "sd_cd": "28", 
+        "sd_nm": "\uc778\ucc9c\uad11\uc5ed\uc2dc"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Dong-gu", 
+                "sd_cd": "29", 
+                "sd_nm": "\uad11\uc8fc\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "29_110", 
+                "sgg_nm": "\ub3d9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seo-gu", 
+                "sd_cd": "29", 
+                "sd_nm": "\uad11\uc8fc\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "29_140", 
+                "sgg_nm": "\uc11c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Nam-gu", 
+                "sd_cd": "29", 
+                "sd_nm": "\uad11\uc8fc\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "29_155", 
+                "sgg_nm": "\ub0a8\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Buk-gu", 
+                "sd_cd": "29", 
+                "sd_nm": "\uad11\uc8fc\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "29_170", 
+                "sgg_nm": "\ubd81\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gwangsan-gu", 
+                "sd_cd": "29", 
+                "sd_nm": "\uad11\uc8fc\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "29_200", 
+                "sgg_nm": "\uad11\uc0b0\uad6c"
+            }
+        ], 
+        "en_sd_nm": "Gwangju", 
+        "sd_cd": "29", 
+        "sd_nm": "\uad11\uc8fc\uad11\uc5ed\uc2dc"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Dong-gu", 
+                "sd_cd": "30", 
+                "sd_nm": "\ub300\uc804\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "30_110", 
+                "sgg_nm": "\ub3d9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Jung-gu", 
+                "sd_cd": "30", 
+                "sd_nm": "\ub300\uc804\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "30_140", 
+                "sgg_nm": "\uc911\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seo-gu", 
+                "sd_cd": "30", 
+                "sd_nm": "\ub300\uc804\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "30_170", 
+                "sgg_nm": "\uc11c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Yuseong-gu", 
+                "sd_cd": "30", 
+                "sd_nm": "\ub300\uc804\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "30_200", 
+                "sgg_nm": "\uc720\uc131\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Daedeok-gu", 
+                "sd_cd": "30", 
+                "sd_nm": "\ub300\uc804\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "30_230", 
+                "sgg_nm": "\ub300\ub355\uad6c"
+            }
+        ], 
+        "en_sd_nm": "Daejeon", 
+        "sd_cd": "30", 
+        "sd_nm": "\ub300\uc804\uad11\uc5ed\uc2dc"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Jung-gu", 
+                "sd_cd": "31", 
+                "sd_nm": "\uc6b8\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "31_110", 
+                "sgg_nm": "\uc911\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Nam-gu", 
+                "sd_cd": "31", 
+                "sd_nm": "\uc6b8\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "31_140", 
+                "sgg_nm": "\ub0a8\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Dong-gu", 
+                "sd_cd": "31", 
+                "sd_nm": "\uc6b8\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "31_170", 
+                "sgg_nm": "\ub3d9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Buk-gu", 
+                "sd_cd": "31", 
+                "sd_nm": "\uc6b8\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "31_200", 
+                "sgg_nm": "\ubd81\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Ulju-gun", 
+                "sd_cd": "31", 
+                "sd_nm": "\uc6b8\uc0b0\uad11\uc5ed\uc2dc", 
+                "sgg_cd": "31_710", 
+                "sgg_nm": "\uc6b8\uc8fc\uad70"
+            }
+        ], 
+        "en_sd_nm": "Ulsan", 
+        "sd_cd": "31", 
+        "sd_nm": "\uc6b8\uc0b0\uad11\uc5ed\uc2dc"
+    }, 
+    {
+        "SGG_LIST": [], 
+        "en_sd_nm": "Sejong-si", 
+        "sd_cd": "36", 
+        "sd_nm": "\uc138\uc885\ud2b9\ubcc4\uc790\uce58\uc2dc"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Jangan-gu, Suwon-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_111", 
+                "sgg_nm": "\uc218\uc6d0\uc2dc \uc7a5\uc548\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gwonseon-gu, Suwon-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_113", 
+                "sgg_nm": "\uc218\uc6d0\uc2dc \uad8c\uc120\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Paldal-gu, Suwon-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_115", 
+                "sgg_nm": "\uc218\uc6d0\uc2dc \ud314\ub2ec\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Yeongtong-gu, Suwon-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_117", 
+                "sgg_nm": "\uc218\uc6d0\uc2dc \uc601\ud1b5\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Sujeong-gu, Seongnam-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_131", 
+                "sgg_nm": "\uc131\ub0a8\uc2dc \uc218\uc815\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Jungwon-gu, Seongnam-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_133", 
+                "sgg_nm": "\uc131\ub0a8\uc2dc \uc911\uc6d0\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Bundang-gu, Seongnam-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_135", 
+                "sgg_nm": "\uc131\ub0a8\uc2dc \ubd84\ub2f9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Uijeongbu-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_150", 
+                "sgg_nm": "\uc758\uc815\ubd80\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Manan-gu, Anyang-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_171", 
+                "sgg_nm": "\uc548\uc591\uc2dc \ub9cc\uc548\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Dongan-gu, Anyang-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_173", 
+                "sgg_nm": "\uc548\uc591\uc2dc \ub3d9\uc548\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Wonmi-gu, Bucheon-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_195", 
+                "sgg_nm": "\ubd80\ucc9c\uc2dc \uc6d0\ubbf8\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Sosa-gu, Bucheon-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_197", 
+                "sgg_nm": "\ubd80\ucc9c\uc2dc \uc18c\uc0ac\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Ojeong-gu, Bucheon-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_199", 
+                "sgg_nm": "\ubd80\ucc9c\uc2dc \uc624\uc815\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gwangmyeong-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_210", 
+                "sgg_nm": "\uad11\uba85\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Pyeongtaek-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_220", 
+                "sgg_nm": "\ud3c9\ud0dd\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Dongducheon-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_250", 
+                "sgg_nm": "\ub3d9\ub450\ucc9c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Sangnok-gu, Ansan-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_271", 
+                "sgg_nm": "\uc548\uc0b0\uc2dc \uc0c1\ub85d\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Danwon-gu, Ansan-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_273", 
+                "sgg_nm": "\uc548\uc0b0\uc2dc \ub2e8\uc6d0\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Deogyang-gu, Goyang-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_281", 
+                "sgg_nm": "\uace0\uc591\uc2dc \ub355\uc591\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Ilsandong-gu, Goyang-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_285", 
+                "sgg_nm": "\uace0\uc591\uc2dc \uc77c\uc0b0\ub3d9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Ilsanseo-gu, Goyang-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_287", 
+                "sgg_nm": "\uace0\uc591\uc2dc \uc77c\uc0b0\uc11c\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gwacheon-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_290", 
+                "sgg_nm": "\uacfc\ucc9c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Guri-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_310", 
+                "sgg_nm": "\uad6c\ub9ac\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Namyangju-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_360", 
+                "sgg_nm": "\ub0a8\uc591\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Osan-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_370", 
+                "sgg_nm": "\uc624\uc0b0\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Siheung-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_390", 
+                "sgg_nm": "\uc2dc\ud765\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gunpo-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_410", 
+                "sgg_nm": "\uad70\ud3ec\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Uiwang-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_430", 
+                "sgg_nm": "\uc758\uc655\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Hanam-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_450", 
+                "sgg_nm": "\ud558\ub0a8\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Cheoin-gu, Yongin-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_461", 
+                "sgg_nm": "\uc6a9\uc778\uc2dc \ucc98\uc778\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Giheung-gu, Yongin-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_463", 
+                "sgg_nm": "\uc6a9\uc778\uc2dc \uae30\ud765\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Suji-gu, Yongin-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_465", 
+                "sgg_nm": "\uc6a9\uc778\uc2dc \uc218\uc9c0\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Paju-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_480", 
+                "sgg_nm": "\ud30c\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Icheon-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_500", 
+                "sgg_nm": "\uc774\ucc9c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Anseong-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_550", 
+                "sgg_nm": "\uc548\uc131\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gimpo-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_570", 
+                "sgg_nm": "\uae40\ud3ec\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Hwaseong-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_590", 
+                "sgg_nm": "\ud654\uc131\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gwangju-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_610", 
+                "sgg_nm": "\uad11\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Yangju-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_630", 
+                "sgg_nm": "\uc591\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Pocheon-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_650", 
+                "sgg_nm": "\ud3ec\ucc9c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Yeoju-si", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_670", 
+                "sgg_nm": "\uc5ec\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Yeoncheon-gun", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_800", 
+                "sgg_nm": "\uc5f0\ucc9c\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Gapyeong-gun", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_820", 
+                "sgg_nm": "\uac00\ud3c9\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Yangpyeong-gun", 
+                "sd_cd": "41", 
+                "sd_nm": "\uacbd\uae30\ub3c4", 
+                "sgg_cd": "41_830", 
+                "sgg_nm": "\uc591\ud3c9\uad70"
+            }
+        ], 
+        "en_sd_nm": "Gyeonggi-do", 
+        "sd_cd": "41", 
+        "sd_nm": "\uacbd\uae30\ub3c4"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Chuncheon-si", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_110", 
+                "sgg_nm": "\ucd98\ucc9c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Wonju-si", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_130", 
+                "sgg_nm": "\uc6d0\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gangneung-si", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_150", 
+                "sgg_nm": "\uac15\ub989\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Donghae-si", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_170", 
+                "sgg_nm": "\ub3d9\ud574\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Taebaek-si", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_190", 
+                "sgg_nm": "\ud0dc\ubc31\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Sokcho-si", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_210", 
+                "sgg_nm": "\uc18d\ucd08\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Samcheok-si", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_230", 
+                "sgg_nm": "\uc0bc\ucc99\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Hongcheon-gun", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_720", 
+                "sgg_nm": "\ud64d\ucc9c\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Hoengseong-gun", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_730", 
+                "sgg_nm": "\ud6a1\uc131\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Yeongwol-gun", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_750", 
+                "sgg_nm": "\uc601\uc6d4\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Pyeongchang-gun", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_760", 
+                "sgg_nm": "\ud3c9\ucc3d\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Jeongseon-gun", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_770", 
+                "sgg_nm": "\uc815\uc120\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Cheorwon-gun", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_780", 
+                "sgg_nm": "\ucca0\uc6d0\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Hwacheon-gun", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_790", 
+                "sgg_nm": "\ud654\ucc9c\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Yanggu-gun", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_800", 
+                "sgg_nm": "\uc591\uad6c\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Inje-gun", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_810", 
+                "sgg_nm": "\uc778\uc81c\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Goseong-gun", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_820", 
+                "sgg_nm": "\uace0\uc131\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Yangyang-gun", 
+                "sd_cd": "42", 
+                "sd_nm": "\uac15\uc6d0\ub3c4", 
+                "sgg_cd": "42_830", 
+                "sgg_nm": "\uc591\uc591\uad70"
+            }
+        ], 
+        "en_sd_nm": "Gangwon-do", 
+        "sd_cd": "42", 
+        "sd_nm": "\uac15\uc6d0\ub3c4"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Sangdang-gu, Cheongju-si", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_111", 
+                "sgg_nm": "\uccad\uc8fc\uc2dc \uc0c1\ub2f9\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seowon-gu, Cheongju-si", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_112", 
+                "sgg_nm": "\uccad\uc8fc\uc2dc \uc11c\uc6d0\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Heungdeok-gu, Cheongju-si", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_113", 
+                "sgg_nm": "\uccad\uc8fc\uc2dc \ud765\ub355\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Cheongwon-gu, Cheongju-si", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_114", 
+                "sgg_nm": "\uccad\uc8fc\uc2dc \uccad\uc6d0\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Chungju-si", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_130", 
+                "sgg_nm": "\ucda9\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Jecheon-si", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_150", 
+                "sgg_nm": "\uc81c\ucc9c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Boeun-gun", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_720", 
+                "sgg_nm": "\ubcf4\uc740\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Okcheon-gun", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_730", 
+                "sgg_nm": "\uc625\ucc9c\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Yeongdong-gun", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_740", 
+                "sgg_nm": "\uc601\ub3d9\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Jeungpyeong-gun", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_745", 
+                "sgg_nm": "\uc99d\ud3c9\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Jincheon-gun", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_750", 
+                "sgg_nm": "\uc9c4\ucc9c\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Goesan-gun", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_760", 
+                "sgg_nm": "\uad34\uc0b0\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Eumseong-gun", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_770", 
+                "sgg_nm": "\uc74c\uc131\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Danyang-gun", 
+                "sd_cd": "43", 
+                "sd_nm": "\ucda9\uccad\ubd81\ub3c4", 
+                "sgg_cd": "43_800", 
+                "sgg_nm": "\ub2e8\uc591\uad70"
+            }
+        ], 
+        "en_sd_nm": "Chungcheongbuk-do", 
+        "sd_cd": "43", 
+        "sd_nm": "\ucda9\uccad\ubd81\ub3c4"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Dongnam-gu, Cheonan-si", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_131", 
+                "sgg_nm": "\ucc9c\uc548\uc2dc \ub3d9\ub0a8\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seobuk-gu, Cheonan-si", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_133", 
+                "sgg_nm": "\ucc9c\uc548\uc2dc \uc11c\ubd81\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gongju-si", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_150", 
+                "sgg_nm": "\uacf5\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Boryeong-si", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_180", 
+                "sgg_nm": "\ubcf4\ub839\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Asan-si", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_200", 
+                "sgg_nm": "\uc544\uc0b0\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Seosan-si", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_210", 
+                "sgg_nm": "\uc11c\uc0b0\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Nonsan-si", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_230", 
+                "sgg_nm": "\ub17c\uc0b0\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gyeryong-si", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_250", 
+                "sgg_nm": "\uacc4\ub8e1\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Dangjin-si", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_270", 
+                "sgg_nm": "\ub2f9\uc9c4\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Geumsan-gun", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_710", 
+                "sgg_nm": "\uae08\uc0b0\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Buyeo-gun", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_760", 
+                "sgg_nm": "\ubd80\uc5ec\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Seocheon-gun", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_770", 
+                "sgg_nm": "\uc11c\ucc9c\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Cheongyang-gun", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_790", 
+                "sgg_nm": "\uccad\uc591\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Hongseong-gun", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_800", 
+                "sgg_nm": "\ud64d\uc131\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Yesan-gun", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_810", 
+                "sgg_nm": "\uc608\uc0b0\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Taean-gun", 
+                "sd_cd": "44", 
+                "sd_nm": "\ucda9\uccad\ub0a8\ub3c4", 
+                "sgg_cd": "44_825", 
+                "sgg_nm": "\ud0dc\uc548\uad70"
+            }
+        ], 
+        "en_sd_nm": "Chungcheongnam-do", 
+        "sd_cd": "44", 
+        "sd_nm": "\ucda9\uccad\ub0a8\ub3c4"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Wansan-gu, Jeonju-si", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_111", 
+                "sgg_nm": "\uc804\uc8fc\uc2dc \uc644\uc0b0\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Deokjin-gu, Jeonju-si", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_113", 
+                "sgg_nm": "\uc804\uc8fc\uc2dc \ub355\uc9c4\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gunsan-si", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_130", 
+                "sgg_nm": "\uad70\uc0b0\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Iksan-si", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_140", 
+                "sgg_nm": "\uc775\uc0b0\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Jeongeup-si", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_180", 
+                "sgg_nm": "\uc815\uc74d\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Namwon-si", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_190", 
+                "sgg_nm": "\ub0a8\uc6d0\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gimje-si", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_210", 
+                "sgg_nm": "\uae40\uc81c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Wanju_Gun", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_710", 
+                "sgg_nm": "\uc644\uc8fc\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Jinan-gun", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_720", 
+                "sgg_nm": "\uc9c4\uc548\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Muju-gun", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_730", 
+                "sgg_nm": "\ubb34\uc8fc\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Jangsu-gun", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_740", 
+                "sgg_nm": "\uc7a5\uc218\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Imsil-gun", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_750", 
+                "sgg_nm": "\uc784\uc2e4\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Sunchang-gun", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_770", 
+                "sgg_nm": "\uc21c\ucc3d\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Gochang-gun", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_790", 
+                "sgg_nm": "\uace0\ucc3d\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Buan-gun", 
+                "sd_cd": "45", 
+                "sd_nm": "\uc804\ub77c\ubd81\ub3c4", 
+                "sgg_cd": "45_800", 
+                "sgg_nm": "\ubd80\uc548\uad70"
+            }
+        ], 
+        "en_sd_nm": "Jeollabuk-do", 
+        "sd_cd": "45", 
+        "sd_nm": "\uc804\ub77c\ubd81\ub3c4"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Mokpo-si", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_110", 
+                "sgg_nm": "\ubaa9\ud3ec\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Yeosu-si", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_130", 
+                "sgg_nm": "\uc5ec\uc218\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Suncheon-si", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_150", 
+                "sgg_nm": "\uc21c\ucc9c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Naju-si", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_170", 
+                "sgg_nm": "\ub098\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gwangyang-si", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_230", 
+                "sgg_nm": "\uad11\uc591\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Damyang-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_710", 
+                "sgg_nm": "\ub2f4\uc591\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Gokseong-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_720", 
+                "sgg_nm": "\uace1\uc131\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Gurye-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_730", 
+                "sgg_nm": "\uad6c\ub840\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Goheung-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_770", 
+                "sgg_nm": "\uace0\ud765\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Boseong-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_780", 
+                "sgg_nm": "\ubcf4\uc131\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Hwasun-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_790", 
+                "sgg_nm": "\ud654\uc21c\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Jangheung-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_800", 
+                "sgg_nm": "\uc7a5\ud765\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Gangjin-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_810", 
+                "sgg_nm": "\uac15\uc9c4\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Haenam-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_820", 
+                "sgg_nm": "\ud574\ub0a8\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Yeongam-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_830", 
+                "sgg_nm": "\uc601\uc554\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Muan-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_840", 
+                "sgg_nm": "\ubb34\uc548\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Hampyeong-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_860", 
+                "sgg_nm": "\ud568\ud3c9\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Yeonggwang-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_870", 
+                "sgg_nm": "\uc601\uad11\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Jangseong-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_880", 
+                "sgg_nm": "\uc7a5\uc131\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Wando-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_890", 
+                "sgg_nm": "\uc644\ub3c4\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Jindo-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_900", 
+                "sgg_nm": "\uc9c4\ub3c4\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Sinan-gun", 
+                "sd_cd": "46", 
+                "sd_nm": "\uc804\ub77c\ub0a8\ub3c4", 
+                "sgg_cd": "46_910", 
+                "sgg_nm": "\uc2e0\uc548\uad70"
+            }
+        ], 
+        "en_sd_nm": "Jeollanam-do", 
+        "sd_cd": "46", 
+        "sd_nm": "\uc804\ub77c\ub0a8\ub3c4"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Nam-gu, Pohang-si", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_111", 
+                "sgg_nm": "\ud3ec\ud56d\uc2dc \ub0a8\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Buk-gu, Pohang-si", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_113", 
+                "sgg_nm": "\ud3ec\ud56d\uc2dc \ubd81\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Gyeongju-si", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_130", 
+                "sgg_nm": "\uacbd\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gimcheon-si", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_150", 
+                "sgg_nm": "\uae40\ucc9c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Andong-si", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_170", 
+                "sgg_nm": "\uc548\ub3d9\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gumi-si", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_190", 
+                "sgg_nm": "\uad6c\ubbf8\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Yeongju-si", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_210", 
+                "sgg_nm": "\uc601\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Yeongcheon-si", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_230", 
+                "sgg_nm": "\uc601\ucc9c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Sangju-si", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_250", 
+                "sgg_nm": "\uc0c1\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Mungyeong-si", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_280", 
+                "sgg_nm": "\ubb38\uacbd\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gyeongsan-si", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_290", 
+                "sgg_nm": "\uacbd\uc0b0\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gunwi-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_720", 
+                "sgg_nm": "\uad70\uc704\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Uiseong-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_730", 
+                "sgg_nm": "\uc758\uc131\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Cheongsong-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_750", 
+                "sgg_nm": "\uccad\uc1a1\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Yeongyang-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_760", 
+                "sgg_nm": "\uc601\uc591\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Yeongdeok-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_770", 
+                "sgg_nm": "\uc601\ub355\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Cheongdo-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_820", 
+                "sgg_nm": "\uccad\ub3c4\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Goryeong-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_830", 
+                "sgg_nm": "\uace0\ub839\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Seongju-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_840", 
+                "sgg_nm": "\uc131\uc8fc\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Chilgok-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_850", 
+                "sgg_nm": "\uce60\uace1\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Yecheon-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_900", 
+                "sgg_nm": "\uc608\ucc9c\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Bonghwa-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_920", 
+                "sgg_nm": "\ubd09\ud654\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Uljin-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_930", 
+                "sgg_nm": "\uc6b8\uc9c4\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Ulleung-gun", 
+                "sd_cd": "47", 
+                "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4", 
+                "sgg_cd": "47_940", 
+                "sgg_nm": "\uc6b8\ub989\uad70"
+            }
+        ], 
+        "en_sd_nm": "Gyeongsangbuk-do", 
+        "sd_cd": "47", 
+        "sd_nm": "\uacbd\uc0c1\ubd81\ub3c4"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Uichang-gu, Changwon-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_121", 
+                "sgg_nm": "\ucc3d\uc6d0\uc2dc \uc758\ucc3d\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Seongsan-gu, Changwon-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_123", 
+                "sgg_nm": "\ucc3d\uc6d0\uc2dc \uc131\uc0b0\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Masanhappo-gu, Changwon-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_125", 
+                "sgg_nm": "\ucc3d\uc6d0\uc2dc \ub9c8\uc0b0\ud569\ud3ec\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Masanhoewon-gu, Changwon-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_127", 
+                "sgg_nm": "\ucc3d\uc6d0\uc2dc \ub9c8\uc0b0\ud68c\uc6d0\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Jinhae-gu, Changwon-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_129", 
+                "sgg_nm": "\ucc3d\uc6d0\uc2dc \uc9c4\ud574\uad6c"
+            }, 
+            {
+                "en_sgg_nm": "Jinju-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_170", 
+                "sgg_nm": "\uc9c4\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Tongyeong-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_220", 
+                "sgg_nm": "\ud1b5\uc601\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Sacheon-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_240", 
+                "sgg_nm": "\uc0ac\ucc9c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Gimhae-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_250", 
+                "sgg_nm": "\uae40\ud574\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Miryang-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_270", 
+                "sgg_nm": "\ubc00\uc591\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Geoje-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_310", 
+                "sgg_nm": "\uac70\uc81c\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Yangsan-si", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_330", 
+                "sgg_nm": "\uc591\uc0b0\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Uiryeong-gun", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_720", 
+                "sgg_nm": "\uc758\ub839\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Haman-gun", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_730", 
+                "sgg_nm": "\ud568\uc548\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Changnyeong-gun", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_740", 
+                "sgg_nm": "\ucc3d\ub155\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Goseong-gun", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_820", 
+                "sgg_nm": "\uace0\uc131\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Namhae-gun", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_840", 
+                "sgg_nm": "\ub0a8\ud574\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Hadong-gun", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_850", 
+                "sgg_nm": "\ud558\ub3d9\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Sancheong-gun", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_860", 
+                "sgg_nm": "\uc0b0\uccad\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Hamyang-gun", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_870", 
+                "sgg_nm": "\ud568\uc591\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Geochang-gun", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_880", 
+                "sgg_nm": "\uac70\ucc3d\uad70"
+            }, 
+            {
+                "en_sgg_nm": "Hapcheon-gun", 
+                "sd_cd": "48", 
+                "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4", 
+                "sgg_cd": "48_890", 
+                "sgg_nm": "\ud569\ucc9c\uad70"
+            }
+        ], 
+        "en_sd_nm": "Gyeongsangnam-do", 
+        "sd_cd": "48", 
+        "sd_nm": "\uacbd\uc0c1\ub0a8\ub3c4"
+    }, 
+    {
+        "SGG_LIST": [
+            {
+                "en_sgg_nm": "Jeju-si", 
+                "sd_cd": "50", 
+                "sd_nm": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4", 
+                "sgg_cd": "50_110", 
+                "sgg_nm": "\uc81c\uc8fc\uc2dc"
+            }, 
+            {
+                "en_sgg_nm": "Seogwipo-si", 
+                "sd_cd": "50", 
+                "sd_nm": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4", 
+                "sgg_cd": "50_130", 
+                "sgg_nm": "\uc11c\uadc0\ud3ec\uc2dc"
+            }
+        ], 
+        "en_sd_nm": "Jeju-do", 
+        "sd_cd": "50", 
+        "sd_nm": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4"
+    }
+]

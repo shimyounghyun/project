@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<!-- 추가적인 설정정보를 포함할 수 있다..... -->
+	<typeAliases>
+		<typeAlias alias="member" type="a.b.sport.vo.MemberVO" />
+		<typeAlias alias="notice" type="a.b.sport.vo.NoticeVO" />
+		<typeAlias alias="noticeComment" type="a.b.sport.vo.NoticeCommentVO" />
+		<typeAlias alias="team" type="a.b.sport.vo.TeamVO" />
+		<typeAlias alias="teamUser" type="a.b.sport.vo.TeamUserVO" />
+		<typeAlias alias="teamwait" type="a.b.sport.vo.TeamWaitVO" />
+		<typeAlias alias="chat" type="a.b.sport.vo.ChatLogVO" />
+		<typeAlias alias="match" type="a.b.sport.vo.MatchVO" />
+		<typeAlias alias="matchComment" type="a.b.sport.vo.MatchCommentVO" />
+		<typeAlias alias="matchwait" type="a.b.sport.vo.MatchWaitVO" />
+		<typeAlias alias="calendar" type="a.b.sport.vo.CalendarVO" />
+	</typeAliases>
+
+</configuration>

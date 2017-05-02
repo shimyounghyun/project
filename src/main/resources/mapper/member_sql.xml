@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="member">
+	<!-- 유저등록 -->
+	<insert id="insert" parameterType="member">
+    <![CDATA[
+		insert into members
+			(userid,password,username,selOne,selTwo,teamNum,thumnail)
+		values
+			(#{userid},#{password},#{username},#{selOne},#{selTwo},#{teamNum},#{thumnail})
+		]]>
+	</insert>
+	<!--아이디 중복확인-->
+	<select id="idchk" parameterType="java.util.HashMap" resultType="int">
+		<![CDATA[
+		select count(*) from members where userid=#{userid}
+		]]>
+	</select>
+
+
+	<!-- 로그인 -->
+	<select id="selectOneByEmailAndPassword" resultType="member"
+		parameterType="map">
+    <![CDATA[
+    select idx,username,userid,selOne,selTwo,teamNum,thumnail
+    from members
+    where userid=#{userid} and password=#{password}
+    ]]>
+	</select>
+</mapper>

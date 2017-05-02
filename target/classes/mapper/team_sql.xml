@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="team">
+	<!-- 팀생성 후 생성된 팀 idx를 사용할수 있게 useGe~를 씀 ,후에 teamidx를 얻으면 된다 -->
+	<insert id="insert" parameterType="team" useGeneratedKeys="true"
+		keyProperty="teamidx">
+<![CDATA[
+insert into team(name,selOne,selTwo,content,regdate,img) values(#{name},#{selOne},#{selTwo},#{content},#{regdate},#{img})
+]]>
+	</insert>
+	<!-- 팀생성후 유저 팀번호도 업데이트 -->
+	<update id="userTeam" parameterType="java.util.HashMap">
+		update members set teamNum=#{teamNum} where idx=#{idx}
+	</update>
+	<!-- 팀번호로 팀정보 가져오기 -->
+	<select id="getTeam" parameterType="int" resultType="team">
+		select * from team where teamidx=#{teamNum}
+	</select>
+	<!-- 팀 리스트 얻기 -->
+	<select id="selectList" resultType="team" parameterType="java.util.HashMap">
+<![CDATA[
+select * from team order by teamidx desc limit #{startNo},#{pageSize}
+]]>
+	</select>
+	<!-- 팀 총개수 -->
+	<select id="getCount" resultType="int">
+		select count(*) from team
+	</select>
+
+	<!-- 검색 -->
+	<select id="search" parameterType="java.util.HashMap" resultType="team">
+		select * from team
+		<where>
+			<if test="selOne != 'default'">
+			selOne like '%${selOne}%'
+			</if>
+			<if test="selTwo != 'default'">
+			and selTwo like '%${selTwo}%'
+			</if>
+			<if test="name != ''">
+			and name like '%${name}%'
+			</if>
+		</where>
+			order by teamidx limit #{startNo},#{pageSize}
+	</select>
+	
+	<!-- 검색 총개수 -->
+	<select id="searchCount" parameterType="java.util.HashMap" resultType="int">
+	select count(*) from team
+	<where>
+	<if test="name != ''">
+	name like '%${name}%'
+	</if>
+	<if test="selOne != 'default'">
+	and selOne like '%${selOne}%'
+	</if>
+	</where>
+	</select>
+	
+	<!-- 전체 팀번호 가져오기 -->
+	<select id="allteam" resultType="java.util.ArrayList">
+	select teamidx from team
+	</select>
+</mapper>

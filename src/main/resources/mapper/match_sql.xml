@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="match">
+	<insert id="insert" parameterType="chat">
+	insert into match_board(matchday,matchhour,matchmin,money,content,area,teamidx,
+	teamname,teamarea1,teamarea2,teamimg) values(#{matchday},#{matchhour},#{matchmin},#{money},#{content},#{area},#{teamidx},#{teamname},#{teamarea1}
+	,#{teamarea2},#{teamimg})
+	</insert>
+	
+	<!-- 개수 얻기 -->
+	<select id="getCount" resultType="int" parameterType="java.util.HashMap">
+	select count(*) from match_board
+	<where>
+	<if test="area != null and area !=''">
+	area like '%${area}%'
+	</if>
+	</where>
+	</select>
+	
+	<!-- 1페이지 얻기 -->
+	<select id="selectList" resultType="match" parameterType="java.util.HashMap">
+	select * from match_board
+	<where>
+	<if test="area != null and area !=''">
+	area like '%${area}%'
+	</if>
+	</where>
+	order by idx desc limit #{startNo},#{pageSize}
+	</select>
+	
+	<!-- 1개 가져오기 -->
+	<select id="selectByIdx" resultType="match" parameterType="int">
+	<![CDATA[
+	select * from match_board where idx=#{idx}
+	]]>
+	</select>
+</mapper>
